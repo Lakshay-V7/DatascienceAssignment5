@@ -1,13 +1,11 @@
 # House Price Prediction: Data Preprocessing and Feature Engineering
 
-This project involves cleaning, transforming, and engineering features from a real estate dataset to predict house prices using advanced regression techniques. The notebook builds a robust machine learning pipeline using `scikit-learn`.
+This project involves cleaning, transforming, and engineering features from a real estate dataset to predict house prices using advanced regression techniques. 
 
 ##  Project Objectives
 
 - Handle missing values and data inconsistencies.
 - Convert categorical variables to numerical format using encoding techniques.
-- Engineer meaningful features to boost model performance.
-
 
 ##  Dataset Description
 
